@@ -28,8 +28,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sanduni-vihara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/sandu20021111" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-   <a href="https://www.instagram.com/sandu_vuhara2002" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
+   <a href="https://www.instagram.com/sandu_vihara2002" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
 
 ---
 
