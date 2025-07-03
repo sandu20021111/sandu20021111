@@ -15,10 +15,10 @@
 
 ### 🌱 About Me
 
-- 🔭 I’m currently working on **Skill Hub**
+- 🔭 I’m currently studying in CINEC Campus. 
 - 🌱 I’m learning **React, Spring Boot & Selenium Automation**
 - 💬 Ask me about **Frontend Development, Java, or Test Automation**
-- 📫 How to reach me: *sandu.vihanga22@gmail.com*
+- 📫 How to reach me: *sandunivihara228@gmail.com*
 - ⚡ Fun fact: I love designing modern UI/UX with **Figma** and building real-world projects!
 
 ---
@@ -28,6 +28,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sanduni-vihara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/sandu20021111" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+   <a href="https://www.instagram.com/sandu_vuhara2002" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
