@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanduni Vihara</h1>
-<h3 align="center">🚀 A passionate Frontend Developer from Sri Lanka</h3>
+<h3 align="center">🚀 A passionate Developer and Tester from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandu20021111&label=Profile%20views&color=0e75b6&style=flat" alt="sandu20021111" />
@@ -16,10 +16,10 @@
 ### 🌱 About Me
 
 - 🔭 I’m currently studying in CINEC Campus. 
-- 🌱 I’m learning **React, Spring Boot & Selenium Automation**
-- 💬 Ask me about **Frontend Development, Java, or Test Automation**
+- 🌱 I’m learning **React, Spring Boot, Jmeter & Selenium Automation**
+- 💬 Ask me about **Frontend. Backend Development, Java, or Test Automation**
 - 📫 How to reach me: *sandunivihara228@gmail.com*
-- ⚡ Fun fact: I love designing modern UI/UX with **Figma** and building real-world projects!
+- ⚡ Fun fact: I love designing simple Games with **JavaScript, Python** and building real-world projects!
 
 ---
 
