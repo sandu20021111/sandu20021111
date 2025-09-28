@@ -2,6 +2,12 @@
 <h3 align="center">🚀 A passionate Developer and Tester from Sri Lanka</h3>
 
 <p align="center">
+  🎓 I am an undergraduate student passionate about <b>Quality Assurance, Backend, and Frontend Development</b>.  
+  I enjoy building scalable web applications, designing user-friendly interfaces, and ensuring software quality through automation.  
+  Currently learning <b>React, Spring Boot, JMeter, and Selenium</b>, while working on real-world projects to strengthen my skills.  
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandu20021111&label=Profile%20views&color=0e75b6&style=flat" alt="sandu20021111" />
 </p>
 
@@ -15,11 +21,11 @@
 
 ### 🌱 About Me
 
-- 🔭 I’m currently studying in CINEC Campus. 
-- 🌱 I’m learning **React, Spring Boot, Jmeter & Selenium Automation**
-- 💬 Ask me about **Frontend, Backend Development, Java, or Test Automation**
-- 📫 How to reach me: *sandunivihara228@gmail.com*
-- ⚡ Fun fact: I love designing simple Games with **JavaScript, Python** and building real-world projects!
+- 🔭 I’m currently studying at **CINEC Campus**  
+- 🌱 I’m learning **React, Spring Boot, JMeter & Selenium Automation**  
+- 💬 Ask me about **Frontend, Backend Development, Java, or Test Automation**  
+- 📫 How to reach me: **sandunivihara228@gmail.com**  
+- ⚡ Fun fact: I love designing simple games with **JavaScript, Python** and working on real-world projects!  
 
 ---
 
@@ -28,9 +34,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sanduni-vihara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/sandu20021111" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-   <a href="https://www.instagram.com/sandu_vihara2002" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
+  <a href="https://www.instagram.com/sandu_vihara2002" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
