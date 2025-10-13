@@ -68,3 +68,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sandu20021111&show_icons=true&theme=tokyonight" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandu20021111&layout=compact&theme=tokyonight" width="45%"/>
 </p>
+
+---
+
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandu20021111&theme=tokyo-night&area=true&hide_border=true" alt="Sanduni's GitHub Activity Graph" />
+</p>
+
+
+
+
+
