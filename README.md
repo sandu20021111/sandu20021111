@@ -1,7 +1,5 @@
-<p align="center">
-  <picture>
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280px" style="border-radius:10px;" />
-  </picture>
+<p align= "center">
+   <img src="https://res.cloudinary.com/dv0e2cfok/image/upload/v1668028966/My%20Stuff/animation_500_laa5d52j_vdcjjq.gif" width="250px"/>
 </p>
 
 
