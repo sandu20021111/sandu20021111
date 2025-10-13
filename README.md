@@ -6,7 +6,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Sanduni Vihara</h1>
-<h3 align="center">🚀 A passionate Developer and Tester from Sri Lanka</h3>
+<h3 align="center">👩‍💻 Passionate Developer & Tester | Learning React, Spring Boot & Test Automation | Creating web apps & improving software quality</h3>
+
+
 
 <p align="center">
   🎓 I am an undergraduate student passionate about <b>Quality Assurance, Backend, and Frontend Development</b>.  
