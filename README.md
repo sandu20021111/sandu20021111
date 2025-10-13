@@ -1,3 +1,9 @@
+<p align="center">
+  <picture>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px" style="border-radius:10px;" />
+  </picture>
+</p>
+
 <h1 align="center">Hi 👋, I'm Sanduni Vihara</h1>
 <h3 align="center">🚀 A passionate Developer and Tester from Sri Lanka</h3>
 
