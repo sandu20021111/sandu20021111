@@ -18,12 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=sandu20021111&label=Profile%20views&color=0e75b6&style=flat" alt="sandu20021111" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sandu20021111&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🌱 About Me
